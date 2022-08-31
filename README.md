@@ -10,3 +10,6 @@ this neural network trained by tiny data set named: dataset.txt
 
 
 ![Screenshot (250)](https://user-images.githubusercontent.com/50426242/187794586-7281f4a7-5c17-41ef-8ac7-184c1dd34ac5.png)
+
+
+This was my Computational Intelligence course project.
