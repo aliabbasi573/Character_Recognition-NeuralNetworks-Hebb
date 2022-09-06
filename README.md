@@ -1,5 +1,5 @@
 # Character Recognition-Neural Networks-Hebb
-Character recognition Function with Hebbian Learning Algorithm using python
+Character recognition Function using Hebbian Learning Algorithm with python
 
 This program can classify O shape from X shape. to do this i used 5x5 matrix representing O or X.
 
